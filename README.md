@@ -17,6 +17,6 @@ Below is the table structure of the Northwind database
 ![image](https://github.com/aqualinqs/Databases/assets/151569483/30ed2983-6277-4708-8c7b-5352f8f7ba83)
 
 Using the Northwind dataset, I genereated SQL queries in PostgreSQL.
-After designing the database and schema, I run the postgreSQL database in docker to generated a docker compose (YAML) file.
+After designing the database and schema, I run the postgreSQL database in docker to generated a docker compose (YAML) file using phpMyAdmin.
 Then i set-up A container in the YAML file.
 
